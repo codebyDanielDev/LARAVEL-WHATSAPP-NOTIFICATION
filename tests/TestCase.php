@@ -2,9 +2,9 @@
 
 namespace Danielowoow\LARAVELWHATSAPPNOTIFICATION\Tests;
 
+use Danielowoow\LARAVELWHATSAPPNOTIFICATION\LARAVELWHATSAPPNOTIFICATIONServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Danielowoow\LARAVELWHATSAPPNOTIFICATION\LARAVELWHATSAPPNOTIFICATIONServiceProvider;
 
 class TestCase extends Orchestra
 {

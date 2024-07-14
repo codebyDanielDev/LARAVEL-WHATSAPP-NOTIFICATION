@@ -2,9 +2,9 @@
 
 namespace Danielowoow\LARAVELWHATSAPPNOTIFICATION;
 
+use Danielowoow\LARAVELWHATSAPPNOTIFICATION\Commands\LARAVELWHATSAPPNOTIFICATIONCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Danielowoow\LARAVELWHATSAPPNOTIFICATION\Commands\LARAVELWHATSAPPNOTIFICATIONCommand;
 
 class LARAVELWHATSAPPNOTIFICATIONServiceProvider extends PackageServiceProvider
 {
