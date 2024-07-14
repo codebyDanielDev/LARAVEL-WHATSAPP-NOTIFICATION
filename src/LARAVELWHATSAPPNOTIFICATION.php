@@ -1,0 +1,7 @@
+<?php
+
+namespace Danielowoow\LARAVELWHATSAPPNOTIFICATION;
+
+class LARAVELWHATSAPPNOTIFICATION
+{
+}
